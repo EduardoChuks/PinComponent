@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PinCustomView">
+        <attr name="hintChar" format="string"/>
+        <attr name="quantity" format="integer"/>
+    </declare-styleable>
+
+</resources>
